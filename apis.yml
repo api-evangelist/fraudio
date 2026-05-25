@@ -1,0 +1,84 @@
+aid: fraudio
+name: Fraudio
+description: >-
+  Fraudio is an Amsterdam-based payments fraud detection and financial-crime
+  scale-up founded in 2019 by João Moura (CEO), Nathan Trousdell (COO), and
+  team, with additional offices in London, Lisbon, and Barcelona. Fraudio
+  delivers AI- and machine-learning-driven fraud detection as a managed
+  service to merchant acquirers, payment service providers, card issuers,
+  and banks, with a product line that covers card payment fraud, merchant
+  initiated fraud, anti-money laundering, authorised push payment (APP)
+  fraud, and money mule detection. The company markets itself as
+  "Generation 3" fraud detection, advancing past rule-based (Gen 1) and
+  bespoke per-customer ML (Gen 2) approaches by training a single
+  centralized "patent pending AI super brain" on the pooled transaction
+  history of all of its customers, claiming network-effect performance
+  gains versus single-tenant models. Fraudio integrates with customers
+  through a plug-and-play real-time scoring API with sub-100ms response
+  times, configurable risk-appetite thresholds, and no upfront integration
+  or setup cost. Customers include Viva Wallet, Silverflow, Pismo,
+  Bancontact, Fazz, PayTabs, IXOPAY, Bold.co, SaltPay, WiPay, ePayco, and
+  LOQR. Fraudio is ISO 27001 certified, was selected for the Visa
+  Innovation Program (2023), is co-financed by the EU Lisboa 2030
+  programme, has raised roughly $3.3M seed plus a Series A round (March
+  2025), and counts BigStar Ventures, BYND Venture Capital, Teya, Viva
+  Wallet, Portugal Ventures, Iberis Capital, Shilling, and CTT among its
+  investors. There is no public developer portal, no open API reference,
+  no public OpenAPI spec, no SDK, and no GitHub organization — the
+  fraud-scoring API is delivered as a gated B2B integration through a
+  commercial sales process.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fraud Detection
+  - Payment Fraud
+  - Anti-Money Laundering
+  - AML
+  - Financial Crime
+  - Payments
+  - Acquirers
+  - Payment Service Providers
+  - Card Issuers
+  - Banking
+  - Machine Learning
+  - Artificial Intelligence
+  - Risk Scoring
+  - Netherlands
+  - Amsterdam
+url: https://raw.githubusercontent.com/api-evangelist/fraudio/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.fraudio.com
+  - type: About
+    url: https://www.fraudio.com/we-are-fraudio
+  - type: Blog
+    url: https://www.fraudio.com/blog
+  - type: ContactUs
+    url: https://www.fraudio.com/contact-us
+  - type: CardPaymentFraud
+    url: https://www.fraudio.com/card-payment-fraud-detection
+  - type: MerchantInitiatedFraud
+    url: https://www.fraudio.com/merchant-initiated-fraud-detection
+  - type: AntiMoneyLaundering
+    url: https://www.fraudio.com/anti-money-laundering
+  - type: AuthorisedPushPaymentFraud
+    url: https://www.fraudio.com/authorised-push-payment-fraud-detection
+  - type: MoneyMuleDetection
+    url: https://www.fraudio.com/money-mule-detection
+  - type: CaseStudies
+    url: https://www.fraudio.com/case-studies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fraudio
+  - type: Facebook
+    url: https://www.facebook.com/lifeatfraudio
+  - type: Instagram
+    url: https://www.instagram.com/lifeatfraudio
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
