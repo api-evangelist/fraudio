@@ -54,9 +54,8 @@ position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fraudio.png
 tags:
-  - Fraud Detection
+  - Fraud Prevention
   - Payment Fraud
-  - Anti-Money Laundering
   - AML
   - Financial Crime
   - Payments
@@ -64,7 +63,7 @@ tags:
   - Payment Service Providers
   - Card Issuers
   - Banking
-  - Machine-Learning
+  - Machine Learning
   - Artificial Intelligence
   - Risk Scoring
   - Netherlands
@@ -85,6 +84,7 @@ tags_raw:
   - Risk Scoring
   - Netherlands
   - Amsterdam
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/fraudio/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
