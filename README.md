@@ -1,4 +1,4 @@
-# fraudio
+# Fraudio
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fraudio — Amsterdam-based AI fraud detection for payment processors, acquirers, and banks
+Fraudio is an Amsterdam-based payments fraud detection and financial-crime scale-up founded in 2019 by João Moura (CEO), Nathan Trousdell (COO), and team, with additional offices in London, Lisbon, and Barcelona. Fraudio delivers AI- and machine-learning-driven fraud detection as a managed service to merchant acquirers, payment service providers, card issuers, and banks, with a product line that covers card payment fraud, merchant initiated fraud, anti-money laundering, authorised push payment (APP) fraud, and money mule detection. The company markets itself as "Generation 3" fraud detection, advancing past rule-based (Gen 1) and bespoke per-customer ML (Gen 2) approaches by training a single centralized "patent pending AI super brain" on the pooled transaction history of all of its customers, claiming network-effect performance gains versus single-tenant models. Fraudio integrates with customers through a plug-and-play real-time scoring API with sub-100ms response times, configurable risk-appetite thresholds, and no upfront integration or setup cost. Customers include Viva Wallet, Silverflow, Pismo, Bancontact, Fazz, PayTabs, IXOPAY, Bold.co, SaltPay, WiPay, ePayco, and LOQR. Fraudio is ISO 27001 certified, was selected for the Visa Innovation Program (2023), is co-financed by the EU Lisboa 2030 programme, has raised roughly $3.3M seed plus a Series A round (March 2025), and counts BigStar Ventures, BYND Venture Capital, Teya, Viva Wallet, Portugal Ventures, Iberis Capital, Shilling, and CTT among its investors. There is no public developer portal, no open API reference, no public OpenAPI spec, no SDK, and no GitHub organization — the fraud-scoring API is delivered as a gated B2B integration through a commercial sales process.
+
+**Areas:** Fraud Prevention · Payment Fraud · AML · Financial Crime · Payments · Acquirers · Payment Service Providers · Card Issuers · Banking · Machine Learning · Artificial Intelligence · Risk Scoring
+
+## Fraudio on APIs.io
+
+Everything profiled for Fraudio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fraudio/](https://apis.io/providers/fraudio/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fraudio Domain Security](https://apis.io/security/fraudio/fraudio-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.fraudio.com)
+- [Blog](https://www.fraudio.com/blog)
+
+## API Evangelist rating
+
+**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.0** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fraudio/](https://apis.io/providers/fraudio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fraudio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fraudio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
